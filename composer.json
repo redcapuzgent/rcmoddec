@@ -1,0 +1,19 @@
+{
+  "name": "redcapuzgent/rcmoddec",
+  "type": "library",
+  "license": "UNLICENSED",
+  "authors": [
+    {
+      "name":"Bram Gadeyne",
+      "email": "bram.gadeyne@uzgent.be"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "redcapuzgent\\rcmoddec\\": "src/"
+    }
+  }
+}
